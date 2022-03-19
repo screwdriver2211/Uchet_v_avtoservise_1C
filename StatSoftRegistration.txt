@@ -1,0 +1,151 @@
+T1: Файл регистрации STATISTICA
+
+P1: STATISTICA Single User
+
+C0: ANONHACKPC
+C1: 9cb01f98
+C2: Platform 64
+
+I0: Для регистрации, пожалуйста, перейдите на страницу https://registration.statsoft.com и
+I1: загрузите этот файл; либо перешлите его на email:  license@statsoft.com
+I2: Если Вы не можете загрузить файл или отправить его по почте, пожалуйста, свяжитесь с офисом StatSoft по тел. +7(495) 787-77-33.
+
+R0: Имя (контактного лица): -
+R1: Фамилия (контактного лица): -
+R2: Компания: -
+R3: Серийный номер: AGFR205F354521FA-5
+R4: Адрес: -
+R5: Город: -
+R6: Регион: -
+R7: Индекс почт.: -
+R8: Телефон (контактного лица): -
+R9: Email (контактного лица): hui2@hui.com
+R10: Страна (контактного лица): RUS Российская федерация
+R11: Должность (контактного лица): -
+R12: ПО для персонального использования: 0
+R13: Получать новости о продукте: 1
+
+
+
+-------------------------------------------------
+# STATISTICA Licensing File
+# CD Key:5GNGUUN9VKAG2N678NKG
+# Net ID:
+# Installer Code:
+# Serial Number:AGFR205F354521FA-5
+# Computer Name:ANONHACKPC
+FEATURE APPS sta_flxm 7.1 6-dec-2021 uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	START=22-nov-2021 SIGN=0C8C874CB348
+FEATURE BASX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=8BB863E65B90
+FEATURE BCTX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=CF0DCD566F96
+FEATURE CANX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=502F269E6E2E
+FEATURE CLUX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=9B563C58F79E
+FEATURE CORX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=280A471A9270
+FEATURE COXX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=5D92DA0A706C
+FEATURE DISX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=C645E7D4353A
+FEATURE EXPX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=B4DDB5284392
+FEATURE FACE sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=FC6E582EB140
+FEATURE FACX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=1AEF205015D8
+FEATURE FNLX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=54D9D0BA3C4A
+FEATURE GDAX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=3B9A96964348
+FEATURE GLMX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=8CA0DDF41C92
+FEATURE GLZX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=3C5255088968
+FEATURE GSRX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=9355A59093CE
+FEATURE LOGX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=FDB59D249178
+FEATURE MANX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=005E479A5630
+FEATURE MQUX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=800BEE545A8C
+FEATURE MULX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=BFA7F4E46EB0
+FEATURE NLNX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=C2015B6820E4
+FEATURE NOND sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=C9D236625EEC
+FEATURE NONX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=BC8CED12ACDC
+FEATURE PLSX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=2F0D208472CC
+FEATURE POWX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=D7B29C94ACD6
+FEATURE PROX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=4E35CCD4C612
+FEATURE QUAX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=EE44F6720F8E
+FEATURE REGX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=160BC3B81B9A
+FEATURE RELX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=AA735C3C8B80
+FEATURE SANN sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=B40D4B68DB24
+FEATURE SEMX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=962E59C8E0F2
+FEATURE SPCN sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=DD771CDEBA20
+FEATURE SRAX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=AF7F5FBA39B8
+FEATURE ST64 sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=93ED0B9AE024
+FEATURE SURX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=FAB4FBE6688A
+FEATURE TIMX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=84BAC9EE40A0
+FEATURE TREX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=7848C344315A
+FEATURE VARX sta_flxm 7.1 permanent uncounted HOSTID="54bf641c9a27 \
+	38deadd7433e 38deadd7433a 38deadd7433b 3adeadd7433a" \
+	SIGN=6ABBD0D05300
+
